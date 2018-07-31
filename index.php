@@ -2,7 +2,7 @@
 <html lang="fr">
   <head>
     <meta charset="utf-8" />
-    <title>Exercice 5/5</title>
+    <title>Exercice 6/5</title>
   </head>
   <body>
     <p>
